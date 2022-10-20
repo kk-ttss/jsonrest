@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/kk-ttss/jsonrest](https://my-json-server.typicode.com/kk-ttss/jsonrest)
+[https://my-json-server.typicod.com/kk-ttss/jsonrest](https://my-json-server.typicod.com/kk-ttss/jsonrest)
 
 ## Use your own data
 
